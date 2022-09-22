@@ -1,0 +1,10 @@
+ORDENADOR https://www.rae.es/search/node?keys=ordenador&op.x=0&op.y=0
+RATON https://www.rae.es/search/node?keys=raton
+TECLADO https://www.rae.es/search/node?keys=teclado
+PANTALLA https://www.rae.es/search/node?keys=pantalla
+MICROFONO https://www.rae.es/search/node?keys=microfono
+GORRA https://www.rae.es/search/node?keys=gorra
+MOCHILA https://www.rae.es/search/node?keys=mochila
+CABLE https://www.rae.es/search/node?keys=cable
+PROYECTOR https://www.rae.es/search/node?keys=proyector
+PEGATINA https://www.rae.es/search/node?keys=pegatina
